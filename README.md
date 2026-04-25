@@ -5,12 +5,5 @@
 
 <img width="424" height="436" alt="image" src="https://github.com/user-attachments/assets/5c5d0c20-86c9-4eea-999f-af90c7856a19" />
 
-🎯 Learning Objectives
 
-Understand the basics of Node.js runtime</br>
-Build web servers using Express.js</br>
-Learn how to create and manage APIs</br>
-Handle HTTP requests and responses</br>
-Work with databases and data storage</br>
-Implement authentication and security practices
 
