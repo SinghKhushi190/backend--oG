@@ -11,3 +11,14 @@ Routing using Express</br>
 JSON data handling</br>
 Environment configuration</br>
 Error handling
+
+📂 Project Structure
+backend-project/
+│
+├── routes/        # API routes
+├── controllers/   # Business logic
+├── models/        # Database models
+├── middleware/    # Custom middleware
+├── config/        # DB and environment config
+├── app.js         # Main app file
+└── package.json
