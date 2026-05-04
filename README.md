@@ -11,7 +11,7 @@ Routing using Express</br>
 JSON data handling</br>
 Environment configuration</br>
 Error handling
-
+```
 📂 Project Structure
 
 backend-project/
@@ -23,3 +23,4 @@ backend-project/
 ├── config/        # DB and environment config
 ├── app.js         # Main app file
 └── package.json
+```
