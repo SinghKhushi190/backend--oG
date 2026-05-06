@@ -22,5 +22,5 @@ backend-project/
 ├── middleware/    # Custom middleware
 ├── config/        # DB and environment config
 ├── app.js         # Main app file
-└── package.json
+└── package.json   # JSON
 ```
