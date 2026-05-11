@@ -24,3 +24,6 @@ backend-project/
 ├── app.js         # Main app file
 └── package.json   # JSON
 ```
+```
+ npm install
+```
