@@ -30,4 +30,6 @@ backend-project/
 ```
 npm start
 ```
-
+```
+npm install pg
+```
